@@ -1,0 +1,6 @@
+Ambient loops: 60-second seamless cuts (tools/make-loops.sh) of CC0 recordings by Joseph Sardin, BigSoundBank.com
+rain.ogg    "Summer Rain on Terrace" #1019   https://bigsoundbank.com/summer-rain-on-terrace-s1019.html
+forest.ogg  "Countryside" #0097              https://bigsoundbank.com/countryside-s0097.html
+stream.ogg  "Forest and stream #1" #2713     https://bigsoundbank.com/foret-et-ruisseau-1-s2713.html
+wind.ogg    "Wind in the trees" #0904        https://bigsoundbank.com/forest-wind-in-the-trees-s0904.html
+Licence: CC0 1.0 (public domain). Credit is not required; given with thanks.
